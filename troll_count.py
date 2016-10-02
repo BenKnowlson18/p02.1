@@ -44,7 +44,7 @@ def troll_count(n):
     elif n == 2:
         print("two")
 
-    elif n >= 3 and n <= 8:
+    elif 3 <= n <= 8:
         print("many")
 
     else:
